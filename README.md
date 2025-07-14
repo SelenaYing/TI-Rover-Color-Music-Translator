@@ -1,17 +1,17 @@
 ---
 
-🎨 TI-Rover-Color-Music-Translator 🎵
+# 🎨 TI-Rover-Color-Music-Translator 🎵
 
 A **hands-on educational tool** using the **TI-Rover** and **TI-nSpire** to **play music through color**. Students compose music by arranging color cards—each assigned to a musical note—and watch the Rover perform their compositions!
 
 ---
 
-## 🧠 What It Teaches
+## What It Teaches
 
 This project is designed to help students explore:
 
-* 🎨 **Color theory**
-* 🎼 **Music composition basics**
+* 🎨 **Color theory, Red, Green, Blue**
+* 🎼 **Music composition**
 * 🐍 **Python programming on TI-nSpire**
 * 🤖 **Hands-on robotics with TI-Rover**
 
@@ -100,5 +100,3 @@ To change just one color, use `1.12 ColorDetector` to get the RGB and manually u
 This project is perfect for STEM classrooms, makerspaces, or student-led workshops. It turns abstract coding and musical ideas into something **physical, playful, and memorable**.
 
 ---
-
-Let me know if you want a version with images, setup diagrams, or demo videos added later!
