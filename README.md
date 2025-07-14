@@ -1,7 +1,7 @@
 # TI-Rover-Color-Music-Translator 🎨 🎵
-A hands-on educational tool that uses the TI-Rover to play music using color codes.
+A **hands-on educational tool** that uses the **TI-Rover** to **play music** using **color cards**.
 
-This project programs the **TI-Rover** to detect RGB color values and play a **C note** based on those colors. It’s designed as a **hands-on educational tool** to help students explore topics such as **color theory**, **music composition**, and **introductory programming**.
+This project programs the TI-Rover to detect RGB color values and play a C note based on those colors. It’s designed as a hands-on educational tool to help students explore topics such as **color theory**, **music composition**, and **introductory programming**.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
