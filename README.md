@@ -1,8 +1,6 @@
-Here’s a clear, well-formatted, and engaging `README.md` for your **TI-Rover Color Music Translator** GitHub project:
-
 ---
 
-# 🎨 TI-Rover-Color-Music-Translator 🎵
+🎨 TI-Rover-Color-Music-Translator 🎵
 
 A **hands-on educational tool** using the **TI-Rover** and **TI-nSpire** to **play music through color**. Students compose music by arranging color cards—each assigned to a musical note—and watch the Rover perform their compositions!
 
